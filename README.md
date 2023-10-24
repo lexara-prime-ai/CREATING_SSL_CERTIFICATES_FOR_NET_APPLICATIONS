@@ -40,7 +40,7 @@ PS C:\> dotnet dev-certs https --check
 // (before running the next commands)
 ```
 ![](https://github.com/projectfinalaudio/CREATING_SSL_CERTIFICATES_FOR_NET_APPLICATIONS/blob/main/manual-keychain-removal.png?raw=true)
-![manage-certs]()
+![manage-certs](https://github.com/projectfinalaudio/CREATING_SSL_CERTIFICATES_FOR_NET_APPLICATIONS/blob/main/manage-certificates.png?raw=true)
 ![remove-old-certs]()
 ![remove-old-root-certs]()
 
