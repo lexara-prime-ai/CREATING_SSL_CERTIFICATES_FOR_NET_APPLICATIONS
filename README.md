@@ -15,11 +15,11 @@ Expected output:
 * If you experience any **error** that states:
 
 ```powershell
-"A valid HTTPS certificate with a key accessible across security partitions was not found. The following command will run to fix it: 'sudo security set-key-partition-list -D localhost -S unsigned:,teamid:UBF8T346G9' This command will make the certificate key accessible across security partitions and might prompt you for your password. For more information see:  [https://aka.ms/aspnetcore/2.1/troubleshootcertissues](https://aka.ms/aspnetcore/2.1/troubleshootcertissues)
+A valid HTTPS certificate with a key accessible across security partitions was not found. The following command will run to fix it: 'sudo security set-key-partition-list -D localhost -S unsigned:,teamid:UBF8T346G9' This command will make the certificate key accessible across security partitions and might prompt you for your password. For more information see:  [https://aka.ms/aspnetcore/2.1/troubleshootcertissues](https://aka.ms/aspnetcore/2.1/troubleshootcertissues)
 
 A valid HTTPS certificate with a key accessible across security partitions was not found. The following command will run to fix it: 'sudo security set-key-partition-list -D localhost -S unsigned:,teamid:UBF8T346G9' This command will make the certificate key accessible across security partitions and might prompt you for your password. For more information see:  [https://aka.ms/aspnetcore/3.1/troubleshootcertissues](https://aka.ms/aspnetcore/3.1/troubleshootcertissues)
 
-Trusting the HTTPS development certificate was requested. A confirmation prompt will be displayed if the certificate was not previously trusted. Click yes on the prompt to trust the certificate. There was an error trusting HTTPS developer certificate."
+Trusting the HTTPS development certificate was requested. A confirmation prompt will be displayed if the certificate was not previously trusted. Click yes on the prompt to trust the certificate. There was an error trusting HTTPS developer certificate.
 ```
 * Run the following commands:
 ```powershell
