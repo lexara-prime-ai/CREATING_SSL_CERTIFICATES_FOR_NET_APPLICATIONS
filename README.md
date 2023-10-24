@@ -39,7 +39,7 @@ PS C:\> dotnet dev-certs https --check
 // (DO THE MANUAL keychain-old-localhost removal NOW (image below) 
 // (before running the next commands)
 ```
-![manual-removal]([manage-certificates.png](https://github.com/projectfinalaudio/CREATING_SSL_CERTIFICATES_FOR_NET_APPLICATIONS/blob/main/manage-certificates.png?raw=true)
+![](https://github.com/projectfinalaudio/CREATING_SSL_CERTIFICATES_FOR_NET_APPLICATIONS/blob/main/manual-keychain-removal.png?raw=true)
 ![manage-certs]()
 ![remove-old-certs]()
 ![remove-old-root-certs]()
