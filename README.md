@@ -73,7 +73,7 @@ Create a .**json** file and add the following configuration. It contains the con
 	"AllocationsToken": "thisIsMyToken!DareYou2HackItButYouJustCan't",  
 	"AllowedHosts": "*",  
 	"SendGrid": {  
-		"APIKey": 	"thisIsMyToken!DareYou2Hqi3rryqw8o3ryqweifhsdhfqewiryoqwheuhqewuirhqweiurqweirqweackItButYouJustCan't"  
+		"APIKey": "thisIsMyToken!DareYou2Hqi3rryqw8o3ryqweifhsdhfqewiryoqwheuhqewuirhqweiurqweirqweackItButYouJustCan't"  
 		},  
 	"UI": {  
 	"URL": ""  
