@@ -42,7 +42,7 @@ PS C:\> dotnet dev-certs https --check
 ![](https://github.com/projectfinalaudio/CREATING_SSL_CERTIFICATES_FOR_NET_APPLICATIONS/blob/main/manual-keychain-removal.png?raw=true)
 ![manage-certs](https://github.com/projectfinalaudio/CREATING_SSL_CERTIFICATES_FOR_NET_APPLICATIONS/blob/main/manage-certificates.png?raw=true)
 ![remove-old-certs](https://github.com/projectfinalaudio/CREATING_SSL_CERTIFICATES_FOR_NET_APPLICATIONS/blob/main/remove-old-certs.png?raw=true)
-![remove-old-root-certs]()
+![remove-old-root-certs](https://github.com/projectfinalaudio/CREATING_SSL_CERTIFICATES_FOR_NET_APPLICATIONS/blob/main/remove-old-root-certs.png?raw=true)
 
 ```powershell
 PS C:\> dotnet dev-certs https --check
