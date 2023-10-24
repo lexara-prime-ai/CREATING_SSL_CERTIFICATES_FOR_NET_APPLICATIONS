@@ -39,7 +39,7 @@ PS C:\> dotnet dev-certs https --check
 // (DO THE MANUAL keychain-old-localhost removal NOW (image below) 
 // (before running the next commands)
 ```
-![manual-removal]()
+![manual-removal](manage-certificates.png)
 ![manage-certs]()
 ![remove-old-certs]()
 ![remove-old-root-certs]()
