@@ -8,6 +8,10 @@ In case you run into issues when trying to access you dotnet application via the
 ```powershell
 PS C:\> dotnet run
 ```
+
+Expected output:
+![](https://github.com/projectfinalaudio/CREATING_SSL_CERTIFICATES_FOR_NET_APPLICATIONS/blob/main/run-api.png)
+
 * If you experience any **error** that states:
 
 ```powershell
